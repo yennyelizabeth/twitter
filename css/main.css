@@ -1,0 +1,30 @@
+fieldset {
+  width: 40%;
+}
+
+
+body {
+}
+
+input {
+
+}
+
+fieldset {
+  margin-left: 200px;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.control-letters {
+ margin-left: 200px;
+}
+
+div .container-panel {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background-color: yellow;
+  bottom: 600px;
+  margin: 2px solid red;
+}
